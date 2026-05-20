@@ -1,11 +1,13 @@
-# <p align="center"> 杨 俊 - 资深旅游从业者的简历
-</p>
 <p align="center">
-  <strong>18年行业经验 | 新媒体直播+出境定制+计调运营全链路专家</strong>
+  <strong style="font-size: 28px;">杨俊 - 资深旅游从业者简历</strong>
 </p>
 
-<p align="center">
-📍 坐标：长沙市 | 📧 邮箱：284703604@qq.com | 🔗 GitHub：https://github.com/yama945
+<p align="center" style="font-size: 18px;">
+  18年行业经验 | 新媒体直播+出境游定制+产品店铺运营
+</p>
+
+<p align="center" style="font-size: 16px;">
+  📍 坐标：长沙市 | 📧 邮箱：284703604@qq.com | 🔗 GitHub：https://github.com/yama945
 </p>
 
 ---
