@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 28px;">杨俊 - 资深旅游从业者简历</strong>
+  <strong style="font-size: 28px;">杨 俊 - 资深旅游从业者的简历</strong>
 </p>
 
 <p align="center" style="font-size: 18px;">
